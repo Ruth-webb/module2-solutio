@@ -1,2 +1,2 @@
-# module2-solutio
+# module2-solution
 solution for module 2
